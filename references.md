@@ -16,7 +16,7 @@
    https://chatgpt.com/
    Used as an interactive learning assistant to explore XOR encryption, understand binary calculations, and prepare for my presentation.
 
-   **AI Conversation Permalink:** 
+   **AI Conversation Permalink:** https://chatgpt.com/share/6afe18e5-4cec-83ea-ba31-84b005ee7a74
 
 ## Presentation and Code
 
